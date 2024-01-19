@@ -1,0 +1,5 @@
+The reported weight effects of concomitant non-anti-obesity medications should be Interpreted with caution, because the data describing these weight effects:
+1. Are mostly derived from observations of studies not specifically designed to evaluate the effects of these medications on body weight
+2. Are mostly derived from comparisons of the reported effects from different studies, rather than derived from a direct head-to-head comparison within the same controlled clinical trial
+3. Studies often report variable weight effects, depending on the condition being treated (e.g., psychiatric medications being used for multiple psychiatric conditions), dataset, analysis [head-to-head versus meta-analysis, and specific agents having especially inconsistent reported effects (e.g., haloperidol, sertraline)]
+4. The reported effect is mostly expressed as mean values, with the potential for wide variances in individual weight responses to a particular drug 

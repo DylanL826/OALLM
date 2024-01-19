@@ -1,0 +1,13 @@
+Diabetes Mellitus Medications that may increase body weight:
+Most insulins
+Sulfonylureas and Meglitinides (e.g., nateglinide, repaglinide)
+Thiazolidinediones (and other medication names ending in “-zone”)
+Diabetes Mellitus Medications that may decrease body weight:
+Metformin
+Glucagon-like peptide-1 (GLP-1) receptor agonists (e.g., “-tides”)
+Dual GLP-1 and glucose-dependent insulinotropic (GIP) agonist
+Sodium glucose co-transporter 2 inhibitors (e.g., “-flozins”)
+Alpha glucosidase inhibitors (e.g., acarbose, miglitol)
+Amylin mimetic (pramlintide) 
+Diabetes Mellitus Medications that have neutral effects on body weight:
+Dipeptidyl peptidase-4 (DPP4) inhibitors (e.g., “-gliptins”)
